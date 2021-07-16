@@ -7,10 +7,6 @@ Created on Wed May 12 09:06:16 2020
 
 import pandas as pd
 import numpy as np
-# SQL扩展
-# PandaSQL
-# Pandas有一些SQL扩展，例如pandasql，它允许在数据帧之上执行SQL查询。通过pandasql，可以直接查询数据框对象，就好像它们是数据库表一样。
-import pandasql as pdsql
 
 import xlrd
 import xlwt
